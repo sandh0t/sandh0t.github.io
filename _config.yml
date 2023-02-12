@@ -21,10 +21,10 @@ timezone: Europe/London
 
 title: Ayoub Safa                       # the main title
 
-tagline: Application Security Engineering, consulting and bug bounties hunting   # it will display as the sub-title
+tagline: Senior Security Consultant, Penetration Tester, and Bug Bounty Hunter   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Application Security Engineering, consulting and bug bounty hunting  
+  Senior Security Consultant, Penetration Tester, and Bug Bounty Hunter 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ayoubsafa.github.io'
