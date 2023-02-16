@@ -98,7 +98,7 @@ username=sandh0t%40mail.com&password=%60sleep%2020%60
 
 >HTTP Response
 
-![](/assets/img/4/2.jpg)
+![](/assets/img/4/2.JPG)
 
 
 ## Step 3
