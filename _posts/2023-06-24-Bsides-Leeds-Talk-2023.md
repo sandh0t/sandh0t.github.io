@@ -1,5 +1,5 @@
-bsidesleeds---
-title: "Uncommon and Advanced Techniques for Account Takeover Attacks: Bsides Leeds 2023"
+---
+title: "Uncommon and Advanced Techniques for Account Takeover Attacks: BSides Talk Leeds 2023"
 date: 2023-07-08 10:00:00 -500
 categories: [JWT, UUID, "Account Takeover", "Password Reset"]
 tags: [JWT, UUID, "Account Takeover", "Password Reset"]
