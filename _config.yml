@@ -21,10 +21,10 @@ timezone: Europe/London
 
 title: Ayoub Safa                       # the main title
 
-tagline: Senior Security Consultant, Penetration Tester, and Bug Bounty Hunter   # it will display as the sub-title
+tagline: AppSec Engineer • Security Researcher   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Senior Security Consultant, Penetration Tester, and Bug Bounty Hunter 
+  AppSec Engineer • Security Researcher 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ayoubsafa.com'
@@ -81,8 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://media.licdn.com/dms/image/C4D03AQEqTi_tSBLRiw/profile-displayphoto-shrink_400_400/0/1652090156855?e=1691020800&v=beta&t=mCRUyoj28yYFdc7BRix0OSyIKK0mQgh-hBeKZSYnaqk'
-
+avatar: '/assets/img/profile.png'
 # boolean type, the global switch for ToC in posts.
 toc: true
 
